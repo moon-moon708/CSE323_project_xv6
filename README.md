@@ -78,3 +78,10 @@ Creating 3 processes:
 [PID 6] Priority 10: Finished
 
 The priority-10 process is scheduled most often, and the priority-1 process still completes all five steps rather than starving — aging raised its effective priority while it waited.
+
+## Video Demonstration
+
+A video demonstration of the project, showing the Mailbox IPC and Priority Scheduling with Aging implementations in action on xv6, can be viewed here:
+
+[video6095791446206454979.mp4](video6095791446206454979.mp4)
+
